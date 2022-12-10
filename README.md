@@ -1,1 +1,1 @@
-Feed Forward Neural Network I made for the University of Maryland, College Park, DRP (Directed Reading Program). The network distinguishes between weak and average strength passwords with 84% accuracy as shown when tested on the training dataset.
+Feed Forward Neural Network I made for the University of Maryland, College Park, DRP (Directed Reading Program). The network distinguishes between weak and average strength passwords with 84% accuracy as shown when tested on the test dataset.
